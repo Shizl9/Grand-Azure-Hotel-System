@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Grand Azure Hotel System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+602358a36f0b9af59c89891ee47db221967d3c09")]
 [assembly: System.Reflection.AssemblyProductAttribute("Grand Azure Hotel System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Grand Azure Hotel System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

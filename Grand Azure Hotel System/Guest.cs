@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Grand_Azure_Hotel_System
 {
+    //guest class 
     public class Guest
     {
         private static int totalGuestsCreated;
